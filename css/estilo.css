@@ -1,0 +1,27 @@
+body{
+    background-image: url("../img/fundo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    height: 200px;
+    margin-left: 350px;
+    margin-bottom: 100px;
+}
+main{
+    width: 800px;
+    
+    margin-left: 300px;
+}
+footer{
+    width: 800px;
+    height: 250px;
+    margin-left: 400px; 
+}
+footer img{
+    width: 200px;
+    height: 200px;
+}
